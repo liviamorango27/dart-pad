@@ -1,0 +1,19 @@
+void main()
+{
+   somar ();
+}
+     void somar()
+  { 
+    int primeirahora = 36;
+    int segundahora = 48;
+       
+    int resultado = primeirahora + segundahora;
+   
+    if (primeirahora < segundahora)
+    {
+      print("com suas horas trabalhadas =  $primeirahora , vc recebera 2.300,00 reais de salario");
+      }else
+      {
+         print("com suas horas trabalhadas = $segundahora ,vc recebera 3.500,00 reais de salario!");
+         }
+       }
